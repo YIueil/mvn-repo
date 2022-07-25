@@ -1,2 +1,2 @@
 # mvn-repo
-github maven repo
+基于github packages的mvn私服仓库
